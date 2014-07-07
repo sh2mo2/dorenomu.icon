@@ -3,4 +3,4 @@ dorenomu.icon
 
 dorenomu web icons.
 
-https://www.dropbox.com/s/tcvasx70ypuw2vo/demo.html
+https://dl.dropboxusercontent.com/u/200499059/dorenomu.icon/index.html
