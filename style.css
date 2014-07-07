@@ -1,0 +1,67 @@
+@font-face {
+	font-family: 'icomoon';
+	src:url('fonts/icomoon.eot?-y0n3pl');
+	src:url('fonts/icomoon.eot?#iefix-y0n3pl') format('embedded-opentype'),
+		url('fonts/icomoon.woff?-y0n3pl') format('woff'),
+		url('fonts/icomoon.ttf?-y0n3pl') format('truetype'),
+		url('fonts/icomoon.svg?-y0n3pl#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+	font-family: 'icomoon';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-baby:before {
+	content: "\e600";
+}
+.icon-bottle:before {
+	content: "\e601";
+}
+.icon-comment:before {
+	content: "\e602";
+}
+.icon-company:before {
+	content: "\e603";
+}
+.icon-dorenomu-logotype:before {
+	content: "\e604";
+}
+.icon-dorenomu-mark-circle:before {
+	content: "\e605";
+}
+.icon-dorenomu-mark:before {
+	content: "\e606";
+}
+.icon-medicine:before {
+	content: "\e607";
+}
+.icon-stethoscope:before {
+	content: "\e608";
+}
+.icon-office:before {
+	content: "\e609";
+}
+.icon-pencil:before {
+	content: "\e60a";
+}
+.icon-user:before {
+	content: "\e60b";
+}
+.icon-users:before {
+	content: "\e60c";
+}
+.icon-user2:before {
+	content: "\e60d";
+}
